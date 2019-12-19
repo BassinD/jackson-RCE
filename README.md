@@ -11,4 +11,4 @@ Which automatically opens a web browser at `http://localhost:4200`.
 > `backend/mvn spring-boot:run`                                  
 
 ##Demo 
-./jackson-rce-demo.gif
+![Demo gif](./jackson-rce-demo.gif)
