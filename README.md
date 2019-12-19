@@ -1,5 +1,5 @@
 # Demo-Exploit-Jackson-RCE
-This project serves as an example web application to test attack on the Jackson-databind vulnerability ![CVE-2017-17485](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-17485).  
+This project serves as an example web application to test attack on the Jackson-databind vulnerability [CVE-2017-17485](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-17485).  
 
 ## Build
 Build and package spring boot and angular7 into a deployable war file.
