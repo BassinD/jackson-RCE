@@ -9,5 +9,5 @@ Build and package spring boot and angular7 into a deployable war file.
 Which automatically opens a web browser at `http://localhost:4200`. 
 > `backend/mvn spring-boot:run`                                  
 
-##Demo 
+## Demo 
 ![Demo gif](./jackson-rce-demo.gif)
